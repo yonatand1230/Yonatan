@@ -1,0 +1,36 @@
+﻿#EXTM3U
+#EXTINF:-1,כאן 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1,קשת 12
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,קשת 12 (גיבוי)
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,רשת 13
+https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
+
+#EXTINF:-1,N12 ערוץ החדשות
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-p.m3u8
+
+#EXTINF:-1,מורשת 20
+https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8
+
+#EXTINF:-1,כאן חינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1,ערוץ הכנסת
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,ספורט 5
+https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,ספורט 5 (גיבוי)
+https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8?checkedby:iptvcat.comhttps://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,ערוץ המוסיקה 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,ערוץ הקניות
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?ttl=1524643697&cdn_token=5a6c4f1270440ae72118c8ae16c58de4
