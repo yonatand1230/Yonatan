@@ -3,10 +3,7 @@
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
 
 #EXTINF:-1,קשת 12
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1,קשת 12 (גיבוי)
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-p.m3u8?checkedby:iptvcat.com
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8?hdnea=st%3D1589297036%7Eexp%3D1589297936%7Eacl%3D%2F*%7Ehmac%3Db9073195b59b9da56f5d148142f27a112085a6cd9e50fc0fe293b5d271644bd4
 
 #EXTINF:-1,רשת 13
 https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
