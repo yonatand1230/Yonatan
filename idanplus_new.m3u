@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="11" group-title="IL TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",כאן 11
+plugin://plugin.video.idanplus/?mode=5&url=ch_11
+
+#EXTINF:-1 tvg-id="11" group-title="IL TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",כאן 11 - גיבוי
+plugin://plugin.video.idanplus/?mode=5&url=ch_11b
+
+#EXTINF:-1 tvg-id="12" group-title="IL TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg",קשת 12
+plugin://plugin.video.idanplus/?mode=5&url=ch_12
+
+#EXTINF:-1 tvg-id="13" group-title="IL TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.png",רשת 13
+plugin://plugin.video.idanplus/?mode=5&url=ch_13
+
+#EXTINF:-1 tvg-id="13" group-title="IL TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.png",רשת 13 - גיבוי
+plugin://plugin.video.idanplus/?mode=5&url=ch_13b
+
+#EXTINF:-1 tvg-id="20" group-title="IL TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/20.png",מורשת 20
+plugin://plugin.video.idanplus/?mode=5&url=ch_20
+
+#EXTINF:-1 tvg-id="21" group-title="IL TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/21.jpg",ערוץ הקניות 21
+plugin://plugin.video.idanplus/?mode=5&url=ch_21
+
+#EXTINF:-1 tvg-id="23" group-title="IL TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/23tv.jpg",כאן חינוכית 23
+plugin://plugin.video.idanplus/?mode=5&url=ch_23
+
+#EXTINF:-1 tvg-id="24" group-title="IL TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/24telad.png",ערוץ 24 החדש
+plugin://plugin.video.idanplus/?mode=5&url=ch_24
+
+#EXTINF:-1 tvg-id="99" group-title="IL TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/knesset.png",כנסת 99
+plugin://plugin.video.idanplus/?mode=5&url=ch_99
+
+#EXTINF:-1 tvg-id="" group-title="IL TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/n12.png",חדשות N12
+plugin://plugin.video.idanplus/?mode=5&url=ch_n12
+
+#EXTINF:-1 tvg-id="" group-title="FR TV" tvg-logo="https://www.documentamadrid.com/documentamadrid19/sites/default/files/2019-05/arte_logo_cmyk%20copia_0.jpg",Arte
+https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" group-title="FR TV" tvg-logo="https://i0.wp.com/mediterranee-audiovisuelle.com/wp-content/uploads/2015/02/tv5monde_logo.jpg?fit=2500%2C2500",TV5 monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" group-title="FR TV" tvg-logo="https://i.pinimg.com/originals/ae/a3/75/aea3752b678f148cda85f096da3e1fa5.jpg",France 2
+http://89.105.194.4:69/live/c3SZ4iegR6/jHmT4creRW/39545.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" group-title="FR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" group-title="FR TV" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6904.1504800162.png",BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8?checkedby:iptvcat.com
