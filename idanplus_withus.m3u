@@ -1,0 +1,65 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="79" group-title="World Channels" tvg-logo="https://kidscreen.com/wp/wp-content/uploads/2011/03/DisneyJunior.jpg",Disney Junior
+http://plus-tv.us:8080/live/1899/1899/14589.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="82" group-title="World Channels" tvg-logo="https://pmcvariety.files.wordpress.com/2018/08/disney-channel-logo.jpg?w=681&h=383&crop=1",Disney Channel
+http://cdn.miip.tv:8080/canada/123456/105?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="84" group-title="World Channels" tvg-logo="https://i.vimeocdn.com/portrait/8392705_640x640",Nickolodeon
+http://cdn.miip.tv:8080/canada/123456/528?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="81" group-title="World Channels" tvg-logo="https://yt3.ggpht.com/a/AATXAJwHK8QhbGqGVcjxGK9brQmt_ngjftuqWsVMEg=s900-c-k-c0xffffffff-no-rj-mo",TeenNick
+http://thenew.tv:8000/live/Dante/Dante1/93360.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="11" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",כאן 11
+plugin://plugin.video.idanplus/?mode=5&url=ch_11
+
+#EXTINF:-1 tvg-id="11" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",כאן 11 - גיבוי
+plugin://plugin.video.idanplus/?mode=5&url=ch_11b
+
+#EXTINF:-1 tvg-id="12" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg",קשת 12
+plugin://plugin.video.idanplus/?mode=5&url=ch_12
+
+#EXTINF:-1 tvg-id="12" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg",קשת 12 - לקויי שמיעה
+plugin://plugin.video.idanplus/?mode=5&url=ch_12c
+
+#EXTINF:-1 tvg-id="13" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.png",רשת 13
+plugin://plugin.video.idanplus/?mode=5&url=ch_13
+
+#EXTINF:-1 tvg-id="13" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.png",רשת 13 - גיבוי
+plugin://plugin.video.idanplus/?mode=5&url=ch_13b
+
+#EXTINF:-1 tvg-id="20" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/20.png",מורשת 20
+plugin://plugin.video.idanplus/?mode=5&url=ch_20
+
+#EXTINF:-1 tvg-id="21" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/21.jpg",ערוץ הקניות 21
+plugin://plugin.video.idanplus/?mode=5&url=ch_21
+
+#EXTINF:-1 tvg-id="23" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/23tv.jpg",כאן חינוכית 23
+plugin://plugin.video.idanplus/?mode=5&url=ch_23
+
+#EXTINF:-1 tvg-id="24" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/24telad.png",ערוץ 24 החדש
+plugin://plugin.video.idanplus/?mode=5&url=ch_24
+
+#EXTINF:-1 tvg-id="" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bb.jpg",האח הגדול 26
+plugin://plugin.video.idanplus/?mode=5&url=ch_bb
+
+#EXTINF:-1 tvg-id="" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bb.jpg",האח הגדול 26 - גיבוי
+plugin://plugin.video.idanplus/?mode=5&url=ch_bbb
+
+#EXTINF:-1 tvg-id="66" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kabbalah.jpg",קבלה 66
+plugin://plugin.video.idanplus/?mode=5&url=ch_66
+
+#EXTINF:-1 tvg-id="97" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/hidabroot.jpg",הידברות 97
+plugin://plugin.video.idanplus/?mode=5&url=ch_97
+
+#EXTINF:-1 tvg-id="99" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/knesset.png",כנסת 99
+plugin://plugin.video.idanplus/?mode=5&url=ch_99
+
+#EXTINF:-1 tvg-id="" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/n12.png",חדשות N12
+plugin://plugin.video.idanplus/?mode=5&url=ch_n12
+
+#EXTINF:-1 tvg-id="5radio" group-title="Idan+" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/Sport5.png",ספורט 5 אתר
+plugin://plugin.video.idanplus/?mode=5&url=ch_sport5
+
